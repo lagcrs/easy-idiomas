@@ -2,7 +2,7 @@ Projeto 2º Semestre de ADS
 ===================
 
 
-O objetivo do projeto foi a criação de um **Sistema de Gerenciamento Escolar** feito pela linguagem de programação C#. Feito em equipe.
+O objetivo do projeto foi a criação de um **Sistema de Gerenciamento Escolar** feito pela linguagem de programação C#. Feito em equipe. Possui também sua parte online.
 
 ----------
 
