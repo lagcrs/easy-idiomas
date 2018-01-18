@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EA43CF9F-272C-4D3D-A1D2-C9BF20FC066B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Easy_Idiomas</RootNamespace>
+    <AssemblyName>Easy Idiomas</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Samsung\Desktop\Easy\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A76C3FA4756D216CE3BA73B02F282EFEE22145E5</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Easy_Idiomas_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Easy_Idiomas.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aluno.Designer.cs">
+      <DependentUpon>Aluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Financeiro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financeiro.Designer.cs">
+      <DependentUpon>Financeiro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcionario.Designer.cs">
+      <DependentUpon>Funcionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerenciamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerenciamento.Designer.cs">
+      <DependentUpon>Gerenciamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Relatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorio.Designer.cs">
+      <DependentUpon>Relatorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Turma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Turma.Designer.cs">
+      <DependentUpon>Turma.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Aluno.resx">
+      <DependentUpon>Aluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financeiro.resx">
+      <DependentUpon>Financeiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcionario.resx">
+      <DependentUpon>Funcionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerenciamento.resx">
+      <DependentUpon>Gerenciamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Relatorio.resx">
+      <DependentUpon>Relatorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Turma.resx">
+      <DependentUpon>Turma.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Easy_Idiomas_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EASYYYYY1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EASYYYYY.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICONE_FUNC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alunos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-capi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone-turmas-reduzidas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RELATORIO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FUNDO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EASYYYYY11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EASYYYYY2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SAIR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EASYYYYY3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logon1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logon2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logon3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logon11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logon111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logon4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_arquivo_novo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_salvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_excluir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_pesquisa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_atualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_atualizar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_atualizar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

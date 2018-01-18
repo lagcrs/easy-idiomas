@@ -1,0 +1,130 @@
+/*!
+ * Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ */
+ /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+ .row.content {height: 992px}
+
+
+ /* Set gray background color and 100% height */
+ .sidenav {
+ 	font-size: 16px;
+ 	background-color: #0971B2;
+ 	height: 100%;
+ }
+
+ /* Set black background color, white text and some padding */
+ footer {
+ 	background-color: #555;
+ 	color: white;
+ 	padding: 15px;
+ }
+
+ /* On small screens, set height to 'auto' for sidenav and grid */
+ @media screen and (max-width: 57px) {
+ 	.sidenav {
+ 		height: auto;
+ 		padding: 15px;
+ 	}
+ 	.row.content {height: auto;} 
+ }
+ .nav-pills>li.active>a:hover, .nav-pills>li.active>a:hover, .nav-pills>li.active>a {
+ 	color: #ecf0f1;
+ 	background-color: #0971B2;
+ 	width: 168px;
+ 	margin: 20px auto auto;
+
+ }
+ .aluno {
+ 	width: 160px;
+ 	height: 156px;
+ 	margin-top: 40px;
+ 	margin-bottom: 30px;
+ 	border-radius: 170px;
+ 	border-width: 5px;
+ 	border-style: solid;
+ 	border-color: white;
+
+
+ }
+ .btn {
+ 	color: #fff;
+ 	width: 200px;
+ 	background-color: #0C97ED;
+ 	display: inline-block;
+ 	padding: 7px 33px;
+ 	margin-top: 10px;
+ 	margin-bottom: 10px;
+ 	font-size: 14px;
+ }
+
+ /*#chamada {
+ 	display: none;
+ 	}*/
+ 	#nota {
+ 		display: none;
+ 	}
+
+ 	.primary {
+ 		max-width: 50px;
+ 		border-width: 3px;
+ 		border-color: #2980b9;
+ 	}
+ 	#tabela-dados {
+ 		margin-left: 160px;
+ 		vertical-align: center;
+ 		width: 600px;
+ 	}
+ 	
+ 	
+ 	.table-wrapper {
+ 		display: block;
+ 		max-height: 300px;
+ 		overflow-y: auto;
+ 		-ms-overflow-style: -ms-autohiding-scrollbar;
+ 	}
+
+ 	#presenca1, #presenca2, #presenca3 {
+ 		margin-left: 110px;
+ 		border-radius: 4px;
+ 		margin-top: 30px;
+ 		color: #fff;
+ 		width: 190px;
+ 		padding: 5px;
+ 		text-align: center;
+ 		background-color: #0C97ED;
+ 		border: solid 1px #000000;
+
+ 	}
+
+ 	#lista1, #lista2, #lista3{
+ 		width: 1000px;
+ 		margin-top: 50px;
+ 		padding-top: 20px;
+ 		padding: 20px;
+ 		display: none;
+ 	}           
+ 	.table{
+ 		vertical-align: center;
+ 		background-color: #f0f5f5;
+ 		border-style: 2px solid #000000;
+ 		border-left:5px solid #2980b9;
+ 		border-left-style: solid;
+ 		border-left-width: 6px;
+ 	}
+ 	.checkpresenca{
+ 		height: 17px;
+ 		width: 17px;
+ 		float: left;
+ 	}
+
+ 
+ 	#botao{
+ 		margin: 10px;
+ 		font-weight: bold;
+ 		text-transform: uppercase;
+ 	}
+h3{
+	color: white;
+ 	}

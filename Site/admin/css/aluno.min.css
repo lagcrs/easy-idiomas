@@ -1,0 +1,81 @@
+/*!
+ * Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ */
+ /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+
+ /* Set gray background color and 100% height */
+ 
+
+ body{
+  background-color: #e6e6e6;
+}
+.sidenav {
+  background-color: #233240;
+  height: 100%;
+  }
+
+.aluno{
+	width: 160px;
+	height: 156px;
+	margin-top: 40px;
+  border: 8px solid white;
+  border-radius: 500px;
+  -webkit-border-radius: 500px;
+  -moz-border-radius: 500px;
+}
+.nav{
+  padding-top: 30px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 300px;
+
+}
+.active{
+  padding: 3px;
+  
+  font-weight: bolder;
+}
+
+#footer1{
+  height:29px;
+}
+#footer2{
+  font-family: Merriweather, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 12px;
+  color: white;
+  padding-top: 50px;
+}
+.table{
+  background-color: gray;
+}
+#border{
+  float: center;
+  background-color: white;
+  border-style: solid;
+  border-color: white;
+  border-width: medium;
+  border-left-color: #233240;
+  border-left-width: 10px;
+}
+hr{
+  display: block;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 2px;
+}
+.aviso{
+  margin-left: 80px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+#botao{
+  margin: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+

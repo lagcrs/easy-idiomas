@@ -1,0 +1,76 @@
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy_Idiomas.exe.config
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy_Idiomas.exe
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy_Idiomas.pdb
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.fLogin.resources
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Properties.Resources.resources
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csproj.GenerateResource.Cache
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.exe
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.pdb
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Gerenciamento.resources
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Funcionario.resources
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Aluno.resources
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Financeiro.resources
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Relatorio.resources
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Turma.resources
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\MySql.Data.dll
+C:\Users\Samsung\source\repos\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\MySql.Data.xml
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy_Idiomas.exe.config
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy_Idiomas.exe
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy_Idiomas.pdb
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\MySql.Data.dll
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\MySql.Data.xml
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Aluno.resources
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Financeiro.resources
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Funcionario.resources
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Gerenciamento.resources
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.fLogin.resources
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Properties.Resources.resources
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Relatorio.resources
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Turma.resources
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.exe
+C:\Users\Samsung\Desktop\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.pdb
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy_Idiomas.exe.config
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy_Idiomas.exe
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy_Idiomas.pdb
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\MySql.Data.dll
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\MySql.Data.xml
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Aluno.resources
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Financeiro.resources
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Funcionario.resources
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Gerenciamento.resources
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.fLogin.resources
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Properties.Resources.resources
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Relatorio.resources
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Turma.resources
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csproj.GenerateResource.Cache
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.exe
+C:\Users\Samsung\Documents\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.pdb
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\MySql.Data.dll
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\MySql.Data.xml
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Aluno.resources
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Financeiro.resources
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Funcionario.resources
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Gerenciamento.resources
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.fLogin.resources
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Properties.Resources.resources
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Relatorio.resources
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.Turma.resources
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy_Idiomas.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy Idiomas.exe.config
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy Idiomas.exe.manifest
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy Idiomas.application
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy Idiomas.exe
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\bin\Debug\Easy Idiomas.pdb
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy Idiomas.exe.manifest
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy Idiomas.application
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy Idiomas.exe
+C:\Users\Samsung\Desktop\Easy\Gerenciamento_Escolar\Easy_Idiomas\obj\Debug\Easy Idiomas.pdb
