@@ -1,6 +1,6 @@
 <?php 
 $host = "localhost";
-$db = "easy";
+$db = "easy_idiomas";
 $user = "root";
 $pass = "";
 

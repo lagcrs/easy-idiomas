@@ -1,6 +1,6 @@
 <?php 
 $host = "localhost";
-$db = "easy";
+$db = "easy_idiomas";
 $user = "root";
 $pass = "";
 
@@ -90,13 +90,7 @@ mysqli_select_db($con, $db);
 						?>
 					</tbody>
 				</table>
-
-
 				<hr>
-
-
-
-
 			</div>
 		</div>
 

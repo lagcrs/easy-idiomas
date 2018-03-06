@@ -88,11 +88,6 @@ mysqli_select_db($con, $db);
 				</table>
 
 				<hr>
-
-
-
-
-
 			</div>
 		</div>
 

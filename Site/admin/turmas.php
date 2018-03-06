@@ -148,10 +148,7 @@ mysqli_select_db($con, $db);
               </tr>
             </tr>
           </tbody>
-
         </div>
-
-
       </table>
     </div>
 
@@ -180,9 +177,6 @@ mysqli_select_db($con, $db);
             ?>
           </tr>
         </th>
-
-
-
       </tbody>
     </table>
   
@@ -213,7 +207,6 @@ mysqli_select_db($con, $db);
 
           ?>
         </tr>
-
       </tbody>
     </table>
   </td>

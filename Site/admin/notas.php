@@ -117,35 +117,5 @@ mysqli_select_db($con, $db);
 					<div id="chartContainer" style="height: 200px; width: 100%;"></div>
 					<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 				</div>
-
-<!-- 
-			// 		<div class="col-sm-4" id="border">
-			// 			<p>
-			// 				<a class="btn btn-primary" data-toggle="collapse" href="#inter" aria-expanded="false" aria-controls="inter">
-			// 					Link with href
-			// 				</a>
-			// 			</p>
-			// 			<div class="collapse" id="inter">
-			// 				<div class="card card-body">
-			// 					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-			// 				</div>
-			// 			</div>
-			// 		</div>
-			// 		<div class="col-sm-4" id="border">
-			// 			<p>
-			// 				<a class="btn btn-primary" data-toggle="collapse" href="#avancado" aria-expanded="false" aria-controls="avancado">
-			// 					Link with href
-			// 				</a>
-			// 			</p>
-			// 			<div class="collapse" id="avancado">
-			// 				<div class="card card-body">
-			// 					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-			// 				</div>
-			// 			</div>
-			// 		</div>
-			// 	</div>
-		// </div> -->
-
-
 	</body>
 	</html>
